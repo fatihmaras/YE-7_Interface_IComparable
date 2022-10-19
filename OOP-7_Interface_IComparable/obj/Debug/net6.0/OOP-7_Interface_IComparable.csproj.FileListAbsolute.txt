@@ -1,0 +1,15 @@
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-7_Interface_IComparable\OOP-7_Interface_IComparable\bin\Debug\net6.0\OOP-7_Interface_IComparable.exe
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-7_Interface_IComparable\OOP-7_Interface_IComparable\bin\Debug\net6.0\OOP-7_Interface_IComparable.deps.json
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-7_Interface_IComparable\OOP-7_Interface_IComparable\bin\Debug\net6.0\OOP-7_Interface_IComparable.runtimeconfig.json
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-7_Interface_IComparable\OOP-7_Interface_IComparable\bin\Debug\net6.0\OOP-7_Interface_IComparable.dll
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-7_Interface_IComparable\OOP-7_Interface_IComparable\bin\Debug\net6.0\OOP-7_Interface_IComparable.pdb
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-7_Interface_IComparable\OOP-7_Interface_IComparable\obj\Debug\net6.0\OOP-7_Interface_IComparable.csproj.AssemblyReference.cache
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-7_Interface_IComparable\OOP-7_Interface_IComparable\obj\Debug\net6.0\OOP-7_Interface_IComparable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-7_Interface_IComparable\OOP-7_Interface_IComparable\obj\Debug\net6.0\OOP-7_Interface_IComparable.AssemblyInfoInputs.cache
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-7_Interface_IComparable\OOP-7_Interface_IComparable\obj\Debug\net6.0\OOP-7_Interface_IComparable.AssemblyInfo.cs
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-7_Interface_IComparable\OOP-7_Interface_IComparable\obj\Debug\net6.0\OOP-7_Interface_IComparable.csproj.CoreCompileInputs.cache
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-7_Interface_IComparable\OOP-7_Interface_IComparable\obj\Debug\net6.0\OOP-7_Interface_IComparable.dll
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-7_Interface_IComparable\OOP-7_Interface_IComparable\obj\Debug\net6.0\refint\OOP-7_Interface_IComparable.dll
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-7_Interface_IComparable\OOP-7_Interface_IComparable\obj\Debug\net6.0\OOP-7_Interface_IComparable.pdb
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-7_Interface_IComparable\OOP-7_Interface_IComparable\obj\Debug\net6.0\OOP-7_Interface_IComparable.genruntimeconfig.cache
+D:\Projeler\GitHub\YazılımEvi-OOP\YE-7_Interface_IComparable\OOP-7_Interface_IComparable\obj\Debug\net6.0\ref\OOP-7_Interface_IComparable.dll
